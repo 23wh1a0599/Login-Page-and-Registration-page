@@ -1,0 +1,17 @@
+This is basic Registration Form in HTML code
+
+Body Section:
+
+> A heading (<h1>) titled "Registration Page" is centered for prominence.
+
+> A table (<table>) organizes form inputs, creating a structured and user-friendly interface for entering employee details. Key elements include:
+
+> Text Fields: For Employee ID, Employee Name, Salary, Email ID, and Password.
+
+> Drop-down Menus: For selecting Gender, Country, and Department.
+
+> Date Picker: Allows users to input the date of joining.
+
+> A "Register" button (<button>) to submit the registration form.
+
+> A link (<a href="Demo1.html">SignIn</a>) for existing users to navigate to the login page.
