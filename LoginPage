@@ -1,0 +1,12 @@
+This is the basic Login Page in HTML
+Body Section: The main content is presented here.
+
+> A heading (<h1>) titled "Login Page" is centered using the align="center" attribute.
+
+> A table (<table>) is also centered, serving as the layout for the login form inputs:
+
+> Email Input: A text field for users to enter their email ID (<input type="text" name="emailId" />).
+
+> Password Input: A password field for entering the user's password (<input type="password" name="password" />).
+
+> A login button (<button>) and a link for new users to navigate to a "SignUp" page (<a href="">SignUp</a>)
